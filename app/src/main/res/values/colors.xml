@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#075e54</color>
+    <color name="primary_dark">#054d44</color>
+    <color name="secondary">#25d366</color>
+    <color name="secondary_dark">#5FBA86</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#EEEEEE</color>
+
+    <color name="message_ballon_sender">#DBF9C4</color>
+
+</resources>

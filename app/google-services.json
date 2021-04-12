@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790201068265",
+    "project_id": "whatsapp-2b94a",
+    "storage_bucket": "whatsapp-2b94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790201068265:android:5341fc27e530e23c459e78",
+        "android_client_info": {
+          "package_name": "com.pastoreli.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790201068265-52fcmm1sh0uq59i1pfdineav644eq3at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pastoreli.whatsapp",
+            "certificate_hash": "fcf8546599eb044ed5daa1f45e61b7694a33fe63"
+          }
+        },
+        {
+          "client_id": "790201068265-u647avcg8noa1fv2t2ggebj8244fplr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGC3jq17DXcTQrdt_trWNpKWvjY2NoWKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790201068265-u647avcg8noa1fv2t2ggebj8244fplr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
